@@ -1,0 +1,8 @@
+{
+    "id": 3,
+    "chargeName": "corn",
+    "chargeDate": "January 1st, 2022",
+    "initialCost": 3.0,
+    "remainingCost": 2.5,
+    "isPaid": false
+}
